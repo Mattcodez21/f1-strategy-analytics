@@ -36,5 +36,4 @@ git clone https://github.com/Mattcodez21/f1-strategy-analytics.git
 cd f1-strategy-analytics
 pip install -r requirements.txt
 
-<img width="1276" height="1184" alt="dashboard" src="https://github.com/user-attachments/assets/07b81550-718d-4937-bd09-216427005749" /> 
 
